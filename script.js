@@ -18,7 +18,7 @@ const contact ={
 
 const profilelogo=[
   logo={
-    visibil: true,
+    visibil: false,
   }
 ]
 
