@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/hanif.jpeg",
+    profile_pic: "./image/mehfil.jpeg",
     profile_logo: "./image/noufal.jpeg",
 
-    Name: "Muhammad Hanif",
-    designation: "Business Consultant",
-    des_link_text: "@ Naufal typing  ",
-    des_link: "https://maps.app.goo.gl/VAFpK6c9GWXZ1DKs6",
-    contact: "./contact/Hanif.vcf",
+    Name: "Mehfil PK",
+    designation: "Business Analysts",
+    des_link_text: "",
+    des_link: "",
+    contact: "./contact/mehfil.vcf",
 };
 
 const contact ={
-    contact_no: "+97145487687",
-    whatsapp: "+971562108012",
-    location: "https://maps.app.goo.gl/VjCtQbDWKDZjTSt46",
-    email: "Naufaltyping@gmail.com",
+    contact_no: "+97466901966",
+    whatsapp: "+97466901966",
+    location: "",
+    email: "Mehfil85@gmail.com",
 };
 
 const profilelogo=[
@@ -55,7 +55,7 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"Naufaltyping@gmail.com"
+    link:"Mehfil85@gmail.com"
   },
     google={
     visibil: false,
